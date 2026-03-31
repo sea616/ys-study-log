@@ -57,7 +57,7 @@ function Hobby() {
   );
 }
 
-// export default Hobby;
+export default Hobby;
 
 // import React, { useState } from "react";
 

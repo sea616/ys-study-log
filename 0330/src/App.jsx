@@ -11,7 +11,6 @@ function App() {
       <h2>카운터</h2>
       <Counter />
       <hr />
-
       {/* 2) 사용자 정보 컴포넌트 제작 */}
       <h2>사용자 정보</h2>
       <UserInfo />
