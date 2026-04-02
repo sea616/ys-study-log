@@ -20,7 +20,7 @@ function SelectItem() {
 
             <p>선택된 과일: {selected || "없음"}</p>
 
-            {selected && <p>🎉 {selected}을 선택하셨습니다!</p>}
+            {selected && <p>🎉 {selected}를 선택하셨습니다!</p>}
         </div>
     );
 }
