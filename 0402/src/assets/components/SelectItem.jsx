@@ -17,7 +17,6 @@ function SelectItem() {
                 </button>
             ))}
 
-            <hr />
 
             <p>선택된 과일: {selected || "없음"}</p>
 
